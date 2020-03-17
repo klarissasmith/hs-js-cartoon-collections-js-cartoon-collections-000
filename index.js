@@ -42,7 +42,7 @@ function findTheCheese(foods){
 function wordsWithB(words){
   let newWords = [];
   for (i = 0; i < words.length; i++){
-    if (){
+    if (words){
       newWords.push(words[i])
 }
 }
