@@ -38,3 +38,8 @@ function findTheCheese(foods){
     }
   }
 }
+
+function wordsWithB(words){
+  let newWords = [];
+  newWords.push()
+}
